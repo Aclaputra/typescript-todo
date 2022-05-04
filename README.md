@@ -1,5 +1,5 @@
 # typescript-todo
-Built To Do List with Javascript Typescript Snowpack
+Built To do List with Javascript Typescript Snowpack
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
